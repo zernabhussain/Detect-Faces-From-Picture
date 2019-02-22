@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageProcessingFromPicture</string>
+    <string name="load_picture">Load Image</string>
+</resources>
